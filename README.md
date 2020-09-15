@@ -15,7 +15,7 @@
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-orginal.svg" alt="redux" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-orginal.svg" alt=".NET" width="40" height="40"/> 
 </p>
