@@ -30,36 +30,5 @@
 ![exhaust963's github stats](https://github-readme-stats.vercel.app/api?username=exhaust963&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhaust963&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/exhaust963/github-readme-stats)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-🌆 Daytime    80 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-🌃 Evening    154 commits    ████████████░░░░░░░░░░░░░   50.66% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
-Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
-Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
-Saturday     76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.76% 
-Sunday       93 commits     ████████░░░░░░░░░░░░░░░░░   32.75%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.50 % as on ⏰ 15-9-2020.
-
----
-
 ### Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
